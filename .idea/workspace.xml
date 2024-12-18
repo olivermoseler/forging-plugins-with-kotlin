@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2841f9d2-3ebe-4ab6-b018-b6d55c41597c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/de/itestra/demo/action/SearchStackoverflowAction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/de/itestra/demo/service/StackoverflowService.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/de/itestra/demo/action/SearchStackoverflowAction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/de/itestra/demo/action/SearchStackoverflowAction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
     "Gradle.forging-plugins-with-kotlin [setupDependencies].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "simple-action",
+    "git-widget-placeholder": "service-with-coroutine",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/moseler/github/forging-plugins-with-kotlin",
