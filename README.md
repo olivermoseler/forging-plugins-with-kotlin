@@ -2,8 +2,12 @@
 
 Supplemental code to lecture: Be(come) the Smith of Your Tools - Forging Plugins with Kotlin
 
-Held as a guest lecture at the Software Engineering Group under the direction of Prof. Dr. Sebastian Baltes at the
+Held as a guest lecture at the <a href="https://www.se.uni-bayreuth.de/en/index.html" target="_blank">Software
+Engineering Group</a> under the direction of <a href="https://empirical-software.engineering/" target="_blank">Prof. Dr.
+Sebastian Baltes</a> at the
 University of Bayreuth on December 18, 2024.
+
+With the full support of <a href="https://itestra.com" target="_blank">itestra GmbH</a>.
 
 Plugin idea inspired by: https://www.baeldung.com/intellij-idea-plugins-gradle, last visited: December, 18th 2024
 
