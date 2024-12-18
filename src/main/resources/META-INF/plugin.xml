@@ -27,4 +27,10 @@
 
   </extensions>
 
+  <actions>
+    <action id="de.itestra.demo.action.SearchStackoverflowAction"
+            class="de.itestra.demo.action.SearchStackoverflowAction" text="SearchStackoverflow">
+      <add-to-group group-id="MainToolbarRight" anchor="first"/>
+    </action>
+  </actions>
 </idea-plugin>
