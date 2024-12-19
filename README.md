@@ -7,7 +7,7 @@ Engineering Group</a> under the direction of <a href="https://empirical-software
 Sebastian Baltes</a> at the
 University of Bayreuth on December 18, 2024.
 
-With the full support of <a href="https://itestra.com" target="_blank">itestra GmbH</a>.
+With the support of <a href="https://itestra.com" target="_blank">itestra GmbH</a>.
 
 Plugin idea inspired by: https://www.baeldung.com/intellij-idea-plugins-gradle, last visited: December, 18th 2024
 
